@@ -1,7 +1,7 @@
 {
-    "name": "symfony/amqp-messenger",
+    "name": "serrvius/amqp-messenger",
     "type": "symfony-messenger-bridge",
-    "description": "Symfony AMQP extension Messenger Bridge",
+    "description": "CLONE OF Symfony AMQP extension Messenger Bridge",
     "keywords": [],
     "homepage": "https://symfony.com",
     "license": "MIT",
@@ -13,6 +13,10 @@
         {
             "name": "Symfony Community",
             "homepage": "https://symfony.com/contributors"
+        },
+        {
+            "name": "Serrvius",
+            "email": "serrvius@gmail.com"
         }
     ],
     "require": {
